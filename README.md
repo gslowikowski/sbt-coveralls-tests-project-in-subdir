@@ -1,0 +1,1 @@
+# sbt-coveralls-tests-project-in-subdir
