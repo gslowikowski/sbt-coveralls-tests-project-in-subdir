@@ -10,6 +10,4 @@ coverageMinimum := 80
 
 coverageFailOnMinimum := true
 
-import org.scoverage.coveralls.Imports.CoverallsKeys._
-coverallsToken := Some("VzWFlViUxsWc2wc5ikJ5Mo9GNJ7wMDjPU")
-coverallsGitRepoLocation := Some("..")
+org.scoverage.coveralls.Imports.CoverallsKeys.coverallsGitRepoLocation := Some("..")
